@@ -1,0 +1,1 @@
+SELECT nomi,narx FROM mahsulotlar;
